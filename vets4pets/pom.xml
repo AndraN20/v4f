@@ -27,6 +27,8 @@
         <module>appointment-service</module>
         <module>appointment-domain</module>
         <module>appointment-api</module>
+        <module>appointment-security-lib</module>
+
     </modules>
 
 
